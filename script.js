@@ -1,6 +1,5 @@
 function message() {
-const message = "Thông điệp vũ trụ 
-cậu béo r đó",
+const message = "Mình thích cậu lắm"
    messageText = document.querySelectorAll(".message__text"),
    messageSplit = message.split(""),
       messageContainer = document.querySelector(".message"),
